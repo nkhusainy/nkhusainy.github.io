@@ -1,0 +1,9 @@
+---
+title: "About Me"
+format: html
+editor: visual
+---
+
+## About
+
+Hi! I am Kinan. I am a final year master's student at Utrecht University. I graduated bachelor's in psychology, and am interested in social science research. Previously, I worked in market research. For professional inquiries, you can find me on LinkedIn [here](https://www.linkedin.com/in/kinansahusainy/).
