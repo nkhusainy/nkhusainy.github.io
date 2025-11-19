@@ -1,0 +1,13 @@
+project:
+  type: website
+
+website:
+  title: "Kinan's website"
+  navbar:
+    left:
+      - href: about.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
