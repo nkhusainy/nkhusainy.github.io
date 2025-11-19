@@ -2,4 +2,5 @@
 
 Kinan's Website 
 
-The website is at https://nkhusainy.github.io/
+The link to my personal website is at https://nkhusainy.github.io/
+The link to the template on GitHub is at https://github.com/nkhusainy/nkhusainy.github.io
